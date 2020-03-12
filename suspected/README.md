@@ -4,6 +4,13 @@
 
 The number reported in each date is the **cumulative** number of cases to the date.
 
+
+#### March 12, 2020
+
+Number of Suspected Cases: 17
+
+- [El Nuevo Dia](https://www.elnuevodia.com/noticias/locales/nota/asciendea17lacifradecasossospechososdecoronavirusenpuertorico-2552269/)
+
 #### March 11, 2020
 
 Number of Suspected Cases: 5
